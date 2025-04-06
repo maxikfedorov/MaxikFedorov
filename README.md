@@ -1,8 +1,4 @@
 # Greetings to all developers! 
-### CV/Резюме
-[📄 Fedorov Maxim - CV.pdf](./Федоров%20Максим%20-%20резюме.pdf)
-
-Click the link above to view my detailed CV / Нажмите на ссылку выше, чтобы просмотреть моё подробное резюме
 
 
 ---
