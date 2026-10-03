@@ -1,57 +1,85 @@
-# Greetings to all developers! 
+<div align="center">
+  <h1>Maxim Fedorov</h1>
+  <p><strong>AI Systems & Platform Engineer | PhD Researcher in Computer Science</strong></p>
+  <p>Building resilient on-premise LLM serving architectures, ephemeral cloud workspaces, and applied AI systems.</p>
 
-
----
-### :cowboy_hat_face:About me:
-
-<!-- <img src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" width="50px"> -->
-
-My name is Maxim Fedorov. I am an aspiring web developer specialising in creating complex information systems. My goal is to become a designer and builder of complex information systems and achieve expert qualification in each of the development areas.
-
-<p align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
-</p>
-
-**🎓 Bachelor's thesis on the educational program "Software Product Development and Information Systems Design" in the field of "Software Engineering" on the topic "Startup: Intelligent Healthy Eating Recommendation System: Module for Integration with Artificial Intelligence Systems," MIREA – Russian Technological University, 2024.**
+  <p>
+    <a href="https://t.me/maxikfedorov"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+    <a href="https://vk.com/maxikfedorov"><img src="https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white" alt="VK" /></a>
+    <a href="https://www.youtube.com/@maxikfedorov"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+  </p>
+</div>
 
 ---
 
-- Graduated with honours from the Digital Department (Цифровая Кафедра) programme in Frontend IT Application Development
-- Co-author of the MIREA textbook on "Transaction Processing Technologies for Client-Server Applications" discipline
-- Experience in IS design - defining functional and technical requirements, IS architecture, models of automated processes and database structure
+### 🔬 Research & Academic Background
 
-### 🤝 Social media:
-
-| Instagram | VK | Telegram | YouTube |
-|----------|----------|----------|----------|
-| <div align="center"><a href="https://instagram.com/maxikfedorov" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="40" height="40" alt="Instagram" /></a></div> | <div align="center"><a href="https://vk.com/maxikfedorov" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK" /></a></div> | <div align="center"><a href="https://t.me/maxikfedorov" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="Telegram" /></a></div> | <div align="center"><a href="https://www.youtube.com/@maxikfedorov" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/3670/3670147.png" width="40" height="40" alt="YouTube" /></a></div> |
+- 🎓 **PhD Student (Aspirantura):** Specialty 1.2.1 (Computer Science & Mathematical Modeling), Russian Academy of Sciences.
+- 🥇 **M.Sc. in Computer Science & Engineering:** Graduated with **Honors & Gold Medal**. Research focused on Few-Shot Learning & Topological Data Analysis (TDA) for biomedical data synthesis.
+- 📚 **Published Researcher:**
+  - *“A Multiagent Multimodal Neural Architecture with Probabilistic Evidence Aggregation for Detecting Fake Messages”* — *Pattern Recognition and Image Analysis* (Springer / Pleiades).
+- 📖 **Co-author of Academic Textbook:** *Transaction Processing Technologies for Client-Server Applications* (RTU MIREA).
 
 ---
 
-## Languages and Tools 
-<div>
+### 🛠️ Core Engineering Focus
 
-### Languages:
-| HTML5 | CSS3 | JavaScript | React | Node.js | Express | Docker |
-|----------|----------|----------|----------|----------|----------|----------|
-| <div align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5"  alt="HTML5" width="55" height="55"/></div> | <div align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3"  alt="CSS3" width="55" height="55"/></div> | <div align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/></div> | <div align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="55" height="55"/></div> | <div align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg" title="Node.js" alt="Node.js" width="55" height="55"/></div> | <div align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express" alt="Express" width="55" height="55"/></div> | <div align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="55" height="55"/></div> |
+* **Enterprise AI & LLM Infrastructure:**
+  * Design and deployment of high-throughput on-premise model serving platforms (PRISM) utilizing **SGLang, vLLM, Llama.cpp**, and **Text Embeddings Inference (TEI)**.
+  * Centralized inference routing, rate-limiting, and quota management via **LiteLLM Proxy**.
+  * Observability, cost tracking, and end-to-end trace collection via **Langfuse**.
+  * Identity federation, RBAC, and zero-trust edge proxies (**Keycloak, Caddy/Nginx**).
 
-### Databases:
-| MySQL | PostgreSQL | MongoDB | SQLite |
-|----------|----------|----------|----------|
-| <div align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL"  alt="MySQL" width="55" height="55"/></div> | <div align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL"  alt="PostgreSQL" width="55" height="55"/></div> | <div align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="55" height="55"/></div> | <div align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQLite" alt="SQLite" width="55" height="55"/></div> |
+* **Cloud Development Environments & Platform Engineering:**
+  * Self-hosted, ephemeral developer environments (PRISM-CDE / Forge) built on **K3s (Kubernetes)** and **Coder**.
+  * Automated infrastructure via **Terraform** operating within air-gapped / isolated enterprise Linux distributions (RED OS).
 
-### Complementary technologies:
-| Python | Java | PHP |
-|----------|----------|----------|
-| <div align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/></div> | <div align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java"  alt="Java" width="55" height="55"/></div> | <div align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="55" height="55"/></div> |
+* **Applied Data Science & Agents:**
+  * Multi-agent workflows and graph-based agent orchestration (**LangGraph, LangChain**).
+  * High-performance vector & search storage integration (**OpenSearch, PostgreSQL/pgvector, ClickHouse**).
 
-### Tools:
-| VS Code | Figma | Postman |
-|----------|----------|----------|
-| <div align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code"  alt="VS Code" width="55" height="55"/></div> | <div align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma"  alt="Figma" width="55" height="55"/></div> | <div align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman"  alt="Postman" width="55" height="55"/></div> |
+---
+
+### 💻 Tech Stack & Tooling
+
+<div align="center">
+
+#### AI / LLM Serving & Observability
+![vLLM](https://img.shields.io/badge/vLLM-000000?style=flat-square)
+![SGLang](https://img.shields.io/badge/SGLang-4F46E5?style=flat-square)
+![Llama.cpp](https://img.shields.io/badge/Llama.cpp-FF6F00?style=flat-square)
+![LiteLLM](https://img.shields.io/badge/LiteLLM-0284C7?style=flat-square)
+![Langfuse](https://img.shields.io/badge/Langfuse-10B981?style=flat-square)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C1917?style=flat-square)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+
+#### Platform & DevOps
+![Kubernetes](https://img.shields.io/badge/K3s%20%2F%20K8s-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
+![Coder](https://img.shields.io/badge/Coder-0052FF?style=flat-square)
+![Caddy](https://img.shields.io/badge/Caddy-1F88C0?style=flat-square&logo=caddy&logoColor=white)
+![Keycloak](https://img.shields.io/badge/Keycloak-1A2B34?style=flat-square&logo=redhat&logoColor=white)
+![Linux](https://img.shields.io/badge/Enterprise_Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+#### Databases & Storage
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=flat-square&logo=clickhouse&logoColor=black)
+![OpenSearch](https://img.shields.io/badge/OpenSearch-005EB8?style=flat-square&logo=opensearch&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![MinIO](https://img.shields.io/badge/MinIO%20S3-C72C48?style=flat-square&logo=minio&logoColor=white)
+
+#### Backend & Core Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
 </div>
 
+---
 
-
+<p align="center">
+  <img src="assets/github-snake.svg" alt="GitHub Contributions Snake Animation" />
+</p>
